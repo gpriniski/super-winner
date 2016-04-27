@@ -38,6 +38,7 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'quicksandbold', sans-serif;
 }
 
 header {
@@ -47,3 +48,15 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+  font-family: 'quicksandbold', sans-serif;
+  font-size:42px;
+}
+
+h2 {
+  font-family: 'quicksanditalic', sans-serif;
+}  
+ 
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
